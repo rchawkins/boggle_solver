@@ -114,6 +114,7 @@ def board_dimensions(board):
 
 
 if '__main__' == __name__:
+
     board = '''itsaw
                mitgn
                etpbe
